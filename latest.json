@@ -1,0 +1,6 @@
+{
+  "version": "0.1.1",
+  "firmware_url": "https://raw.githubusercontent.com/Nelson-Oliveira/SmartTerrarium/main/releases/SmartTerrarium.ino.bin",
+  "littlefs_url": "https://raw.githubusercontent.com/Nelson-Oliveira/SmartTerrarium/main/releases/SmartTerrarium.littlefs.bin",
+  "notes": "Atualização completa via GitHub."
+}
